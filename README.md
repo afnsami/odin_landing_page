@@ -5,3 +5,4 @@ credit of all the images goes to the rightful owner.
 
 ## note
 finally made a good looking landing page of my own.
+although the css code is so messy, i've enjoyed making this.
