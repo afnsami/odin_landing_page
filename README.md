@@ -1,5 +1,5 @@
 # Product Landing Page
-## Live Preview <a href="https://anaseig.github.io/odin_landing_page" target="_blank">HERE</a>
+## Live Preview <a href="https://afnsami.github.io/odin_landing_page" target="_blank">HERE</a>
 
 <img src="images/preview.png">
 
